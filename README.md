@@ -1,1 +1,1 @@
-# browserify-example
+# Browserify Example
