@@ -8,9 +8,15 @@ By the definition goes by in the official Browserify website: http://browserify.
 > Browserify lets you require('modules') in the browser by bundling up all of your dependencies.
 
 In other words what seems to me is a tool that can combine multiple "resources/assets/files" into one single
-file as a "bundle".
+file as a "bundle" which then allowing you to serve up in a single `<script>` tag.
 
 An alternative to webpack?
+
+#### Installation
+
+```
+npm install -g browserify
+```
 
 #### Bundle up a module
 
